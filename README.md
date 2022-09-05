@@ -11,3 +11,9 @@ The dataset is divided into two as negative and positive crack images for image 
 Each class has 20000 images with a total of 40000 images with 224 x 224 pixels with RGB channels.
 
 <img src="architecture.jpg">
+
+# Still missing
+
+The model is only trained and validated.
+For segmentaion, the model should be saved in a .h5 format. So you can use it whenever you want. And apply to the images you want to classify.
+However, the file to do it, is not here 
